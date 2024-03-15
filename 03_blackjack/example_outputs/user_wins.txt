@@ -1,0 +1,12 @@
+Welcome to Blackjack!
+Your cards are: 8, 2
+Would you like to hit or stand? 
+hit
+Your cards are: 8, 2, 8
+Would you like to hit or stand? 
+stand
+The dealer hits.
+The dealer stands.
+Your cards are: 8, 2, 8
+The dealer's cards are: 3, 3, 7
+You win!
